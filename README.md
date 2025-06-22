@@ -96,3 +96,11 @@ These filters allow users to **drill down into performance by channel or specifi
   - Slicers (Retailer, Sales Method)
   - Timeline Filter
   - Conditional Formatting
+
+---
+
+## 📷 Dashboard Preview
+
+Below is a preview of the interactive Excel dashboard built for analyzing Adidas sales data:
+
+![Adidas Dashboard](addidas-dasboard.png)
